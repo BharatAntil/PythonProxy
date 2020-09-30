@@ -7,3 +7,4 @@ additional function
 ----
  + url (allow|deny) list
  + block image
+ + unblock image
